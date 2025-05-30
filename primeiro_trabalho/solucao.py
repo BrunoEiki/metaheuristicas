@@ -1,5 +1,5 @@
 from random import choice, sample
-from modelagem import custo_total, tamanho_matriz, custo
+from primeiro_trabalho.modelagem import custo_total, tamanho_matriz, custo
 
 
 class SolucaoGulosa:
